@@ -1,0 +1,1 @@
+enum Parent { mother, father }
